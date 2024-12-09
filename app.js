@@ -1,3 +1,3 @@
-const title = document.getElementById("title");
+const hellos = document.getElementsByClassName("hello");
 
-console.dir(title);
+console.log(hellos)
